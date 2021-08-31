@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff7ca7ae46197b4b9793d43aaf8c934, type: 3}
+  m_Name: Abmob
+  m_EditorClassIdentifier: 
+  interstitialIdAndroid: 
+  interstitialIdIphone: 
+  staticDisplayFrequency: 2
+  randomDisplayFrequency: 5
